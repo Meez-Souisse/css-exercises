@@ -1,0 +1,21 @@
+/* style.css */
+
+p {
+    background: rgb(232, 147, 137);
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+p1 {
+    background: rgb(232, 147, 137);
+    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-size: 24px;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#fourth {
+    background: rgb(100, 223, 100);
+    font-weight: bold;
+    font-size: 24px;
+
+}
